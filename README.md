@@ -8,6 +8,8 @@ I will upload it to this repository.
 
 ## Respect
 
+> Developing by [BullyWiiPlaza](https://github.com/BullyWiiPlaza)
+
 * **[J Gecko U](https://github.com/BullyWiiPlaza/JGeckoU)**
 
 * **[GeckoU Updater](https://github.com/BullyWiiPlaza/Gecko-U-Updater)**
@@ -31,3 +33,7 @@ git clone https://github.com/Pop-Apple/JGeckoU-Reproduction.git
 ## License
 
 All released under the [MIT](https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/LICENSE) License
+
+> **Warning**  
+This is a reproduction of JGeckoU  
+It is not the real thing.  
