@@ -18,9 +18,9 @@ I will upload it to this repository.
 
 Reproduction of the Conversion Tool
 
-| Pop-Apple | JGeckoU |
-----|----
-| <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/App.png" width="300px" height="290px"> | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/JGeckoU.png" width="300px" height="290px"> |
+| Pop-Apple | JGeckoU | version
+----|----|----
+| <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/App.png" width="250px" height="240px"> | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/JGeckoU.png" width="250px" height="240px"> | 1.0.0.1
 
 ## Clone
 
