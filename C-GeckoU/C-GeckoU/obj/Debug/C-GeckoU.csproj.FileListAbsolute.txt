@@ -1,0 +1,14 @@
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\bin\Debug\C-GeckoU.exe.config
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\bin\Debug\C-GeckoU.exe
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\bin\Debug\C-GeckoU.pdb
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C-GeckoU.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C-GeckoU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C_GeckoU.Source.resources
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C_GeckoU.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C-GeckoU.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C-GeckoU.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C-GeckoU.exe
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C-GeckoU.pdb
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C_GeckoU.Utility.Notepad.resources
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\Text_Converter.UTF16toHex.resources
+C:\Users\Apple_kun\Desktop\C-GeckoU\C-GeckoU\obj\Debug\C_GeckoU.Utility.HelpDialog.resources
