@@ -14,7 +14,19 @@ I will upload it to this repository.
 
 * **[GeckoU Updater](https://github.com/BullyWiiPlaza/Gecko-U-Updater)**
 
+## C-GeckoU
 
+JGeckoU main window reproduction  
+
+| Pop-Apple | JGeckoU | version
+----|----|----
+| <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/C-GeckoU.png" width="300px"> | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/J-GeckoU-Main.png" width="300px" height="145"> | 1.0.0.1
+
+<br>
+
+---
+
+<br>
 
 ## Text Converter
 
