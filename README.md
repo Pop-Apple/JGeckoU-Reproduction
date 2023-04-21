@@ -16,11 +16,12 @@ I will upload it to this repository.
 
 ## C-GeckoU
 
-JGeckoU main window reproduction  
+JGeckoU main window reproduction
+Implementation of UI and other functions  
 
 | Pop-Apple | JGeckoU | version
 ----|----|----
-| <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/C-GeckoU.png" width="300px"> | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/J-GeckoU-Main.png" width="300px" height="145"> | 1.0.0.1
+| <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/CGeckoU-Main.png" width="300px"> | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/JGeckoU-Main.png" width="300px" height="145"> | 1.0.0.1
 
 ---
 
