@@ -22,11 +22,7 @@ JGeckoU main window reproduction
 ----|----|----
 | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/C-GeckoU.png" width="300px"> | <img src="https://github.com/Pop-Apple/JGeckoU-Reproduction/blob/master/assets/J-GeckoU-Main.png" width="300px" height="145"> | 1.0.0.1
 
-<br>
-
 ---
-
-<br>
 
 ## Text Converter
 
